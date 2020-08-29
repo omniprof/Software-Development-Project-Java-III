@@ -10,5 +10,5 @@ Weekly presentations and videos will be added throughout the semester.
 Email1.9.3_SoftwareDesignSpecificationF20.docx
 
 ## Week 1
-01_SoftwareInstallation.pptx .
+01_SoftwareInstallation.pptx  
 01_SoftwareInstallation.mp4 (stored in YouTube at https://youtu.be/mo-L_fdFXxk)
